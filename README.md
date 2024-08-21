@@ -30,23 +30,6 @@ The Spiritual Service Management System project is a Java-based application desi
 
 <h2>Environments Used</h2>
 
-- <b>Windows / Linux</b>
+- <b>Windows / Linux / MacOS </b>
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Client Management Interface: <br/>
-<img src="your-client-management-image-link" height="80%" width="80%" alt="Client Management"/>
-<br />
-<br />
-Spiritual Consultation Scheduling: <br/>
-<img src="your-consultation-scheduling-image-link" height="80%" width="80%" alt="Spiritual Consultation Scheduling"/>
-<br />
-<br />
-Spiritual Advisor Assignment: <br/>
-<img src="your-employee-assignment-image-link" height="80%" width="80%" alt="Spiritual Advisor Assignment"/>
-<br />
-<br />
-Service Overview: <br/>
-<img src="your-service-overview-image-link" height="80%" width="80%" alt="Service Overview"/>
 </p>
